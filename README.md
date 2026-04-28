@@ -1,13 +1,23 @@
-# Getting Started
-Navigate into Client folder in your CMD and type
-          'yarn install' and then 'npm run dev' to start the client side of the application
-Then open another CMD and navigate into the Server folder and type
-          'npm start' to start the server
-    
-# Prerequisites
-You would need an .env file in the server to add Sendgrid Key, host email, JWT key and Database credentials which would be like as below:</br>
-DATABASE = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</br>
-JWT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxx</br>
-SENDGRID_KEY=SG.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</br>
-EMAIL_FROM=xxxxxxxxx@gmail.com</br>
-          
+# Yagnya
+
+## Overview
+Yagnya is a **CSS** project. This repository contains the source code, documentation, and any related assets for the project.
+
+## Intent
+The intention behind this project is to provide a reference implementation, demonstrate Yagnyaâ€™s functionality, and serve as a learning or showcase resource.
+
+## Complexity
+Medium
+
+## How to Run
+`
+# Clone the repository
+
+git clone https://github.com/SughoshDixit/Yagnya.git
+
+cd Yagnya
+
+# Open index.html in a browser
+`
+
+*(If the project uses a different build tool, replace the commands above with the appropriate instructions.)*
